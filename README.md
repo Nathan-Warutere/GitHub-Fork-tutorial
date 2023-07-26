@@ -11,3 +11,6 @@ Fork this tutorial and add your name to the README.md
 ### Collins Malii Wachira
 
 * Medical mirobiology
+
+  ### Nathan Gichohi
+  * Microbiology
